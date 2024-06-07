@@ -1,0 +1,6 @@
+flask
+pandas
+numpy
+bz2file
+scikit-learn==1.2.2
+gunicorn
